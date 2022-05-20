@@ -1,7 +1,7 @@
 # chlorophyll_comparison_Satellite_NUM_model
 Comparing chl-a concentration measured from satellite with NUM model simulated outputs
 
----- Add three files (baserunWatercolumn.m, getChl.m, getChlAllCoordinates.m) in NUM model
+---- Add three files (baserunWatercolumn.m, getChl.m, getChlAllCoordinates.m) in NUM model under matlab folder.
 
 
 ---- Please note that TMs are not available in this repository so MITgcm_ECCO has to be downloaded seperately and placed in TMs folder in matlab
