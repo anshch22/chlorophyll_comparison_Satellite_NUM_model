@@ -7,3 +7,6 @@ run getChlAllCoordinates.m
 
 # To NUM model for one selected coordinate:
 run baserunWatercolumn.m
+
+
+Please note that TMs are not available in this repository so MITgcm_ECCO has to be downloaded seperately and placed in TMs folder in matlab
